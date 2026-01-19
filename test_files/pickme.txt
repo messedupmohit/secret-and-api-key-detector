@@ -1,1 +1,50 @@
 
+# Application startup logs
+[INFO] 2025-01-12 10:14:22 Service initialized
+[DEBUG] Config loaded from /etc/app/config.yaml
+[INFO] Listening on port 8080
+
+# Random comments and junk
+lorem ipsum dolor sit amet
+this line means absolutely nothing
+temporary debug value = 123456
+foo=bar
+hello_world_test_flag=true
+
+# User information
+username = "admin_user"
+email = "admin.user@company-example.com"
+backup_email = "alerts.security@corp-mail.co.uk"
+
+# Authentication data (bad practice)
+password = "SuperSecretPassword123!"
+db_password = "P@ssw0rd!2024"
+legacy_pass = "welcome123"
+
+# API keys
+API_KEY = "sk_test_98asdjfh2983749asdflkjasd"
+api_key = "my_api_key_should_not_be_here"
+google_api_key = "AIzaSyDUMMYKEYEXAMPLE1234567890"
+
+# Cloud credentials
+AWS_ACCESS_KEY_ID = "AKIA1234567890ABCDE"
+AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+
+# Tokens
+GITHUB_TOKEN = "ghp_abcdefghijklmnopqrstuvwxyz123456"
+JWT_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.payload.signature"
+
+# More noise
+[WARN] Disk usage at 72%
+[INFO] Retrying connection...
+session_id=928374928374
+cache_enabled=false
+random_string_xk29slfjsl
+some.log.entry.without.meaning
+
+# Emails buried in logs
+support_contact = "helpdesk@mycompany.internal"
+security_alert_to="soc-team@company-example.com"
+
+# End of file
+[INFO] Shutdown complete
