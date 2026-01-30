@@ -1,6 +1,6 @@
 # Secret & API Key Detector
 
-A lightweight **Blue Team / Detection Engineering** tool designed to identify hardcoded secrets and sensitive information in source code and text files.
+A  **Blue Team / Detection Engineering** tool designed to identify hardcoded secrets and sensitive information in source code and text files.
 
 This project simulates an **internal security utility** commonly used during:
 
@@ -95,3 +95,4 @@ pip install ttkbootstrap
 ### 2. Launch the GUI
 
 python gui.py
+
